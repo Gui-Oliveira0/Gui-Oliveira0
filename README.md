@@ -1,7 +1,7 @@
 ### **Eai , tudo bem** 👋
 Sou **Guilherme Oliveira**, Sou Estudante de tecnolgia e entusiata de programação
 
-Atualmente Curso Engenharia de Software , e Desenvolvimento full Stack🎓 , sempre buscando evolução continua na aréa.
+Atualmente Curso Engenharia de Software , e Desenvolvimento full Stack🎓 , sempre buscando evolução contínua na aréa.
 
 
 <hr/>
